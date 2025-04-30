@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kutlwano Manyikana
-- 👀 I’m interested in: Software Development
-- 🌱 I’m currently learning :Software Delopment 
-- 💞️ I’m looking to collaborate: on Any Compony that Takes Junior Developers
+- 👀 I’m interested in: Fullstack Software Engineer
+- 🌱 I’m currently learning :Information systeams in technology
+- 💞️ I’m looking to collaborate: on Any Compony that Takes Junior Engineer,s
 - 📫 How to reach me: LufunoManyikana315@Gmail.com
 - ⚡ Fun fact: I Love Experiment New Thing Eagur to Learn More... 
 
